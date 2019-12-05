@@ -1,6 +1,7 @@
 ----------------------------
 |   Welcome to Shred-it!   |
 ----------------------------
+Trailer: https://www.youtube.com/watch?v=lsIB96MJtcU
 Created by Jordan Isaacs and inspired by Gnarshmallow
 
 ----------------------------
